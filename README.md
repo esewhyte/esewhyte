@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Eseoghene Cynthia Princewill-Ukot! 👋
 
-<!--
-**esewhyte/esewhyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Data Analyst** with a new found love for **Open Source/Open Science** and community-driven innovation.
 
-Here are some ideas to get you started:
+- 💻 I work on transforming raw data into actionable insights using tools like **Power BI**, **Tableau**, **SQL**, and **Excel**.
+- 🌍 I'm driven by my interest in creating data-driven solutions for real-world challenges.
+- 📊 Skilled in data visualization, my goal is to make complex data easier to understand.
+- 🌱 Currently expanding my knowledge in contributing to open-source projects and learning from the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm interested in:
+- **Data Analytics**: Analyzing trends and patterns to make informed decisions.
+- **Open Source**: Collaborating on projects that bring value to communities and businesses.
+- **Data Visualization**: Turning raw data into interactive dashboards and stories.
+- **Climate & Health Data**: Interested in using data to solve pressing global challenges.
+
+Feel free to connect with me or check out my projects! 😄
+
+---
+
+📫 **Reach me**:
+- LinkedIn: https://www.linkedin.com/in/eseoghene-princewill-ukot
+- Email: ese.princewillukot@gmail.com
+
+Let's build something great together!
+
