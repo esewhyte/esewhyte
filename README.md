@@ -1,6 +1,6 @@
 # Hi there, I'm Eseoghene Cynthia Princewill-Ukot! 👋
 
-Welcome to my GitHub! I'm a passionate **Data Analyst** with a new found love for **Open Source/Open Science** and community-driven innovation.
+Welcome to my GitHub! I'm a passionate **Data Analyst** with a new found love for **Open Source/Science** and community-driven innovation.
 
 - 💻 I work on transforming raw data into actionable insights using tools like **Power BI**, **Tableau**, **SQL**, and **Excel**.
 - 🌍 I'm driven by my interest in creating data-driven solutions for real-world challenges.
@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** with a new found love fo
 
 ## What I'm interested in:
 - **Data Analytics**: Analyzing trends and patterns to make informed decisions.
-- **Open Source**: Collaborating on projects that bring value to communities and businesses.
+- **Open Source/Science**: Collaborating on projects that bring value to communities and businesses.
 - **Data Visualization**: Turning raw data into interactive dashboards and stories.
 - **Climate & Health Data**: Interested in using data to solve pressing global challenges.
 
