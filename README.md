@@ -18,7 +18,7 @@ Feel free to connect with me or check out my projects! 😄
 ---
 
 📫 **Reach me**:
-- LinkedIn: https://www.linkedin.com/in/eseoghene-princewill-ukot
+- LinkedIn: https://www.linkedin.com/in/eseprincewillukot
 - Email: ese.princewillukot@gmail.com
 
 Let's build something great together!
