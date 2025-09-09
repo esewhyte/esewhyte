@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** with a new found love fo
 - **Data Visualization**: Turning raw data into interactive dashboards and stories.
 - **Climate & Health Data**: Interested in using data to solve pressing global challenges.
 
-Feel free to connect with me or check out my projects! 😄
+Feel free to connect with me! 😄
 
 ---
 
